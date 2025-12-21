@@ -64,13 +64,17 @@ If you use `emlearn-micropython` in an academic work, please reference the paper
 
 ```tex
 @article{emlearn_micropython,
+    title = {emlearn-micropython: Machine Learning and Digital Signal Processing for MicroPython},
+    author = {Nordby, Jon},
     doi = {10.21105/joss.09093},
     url = {https://doi.org/10.21105/joss.09093},
     year = {2025},
-    publisher = {The Open Journal}, volume = {10}, number = {116}, pages = {9093},
-    author = {Nordby, Jon},
-    title = {emlearn-micropython: Machine Learning and Digital Signal Processing for MicroPython}, journal = {Journal of Open Source Software}
-} 
+    publisher = {The Open Journal},
+    journal = {Journal of Open Source Software},
+    volume = {10},
+    number = {116},
+    pages = {9093}
+}
 ```
 
 If you have a need to reference a particular version, use the DOI shown on the [Zenodo page](https://doi.org/10.5281/zenodo.8212731) (right hand side).
