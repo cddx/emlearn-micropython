@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/670384512.svg)](https://zenodo.org/badge/latestdoi/670384512)
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.09093/status.svg)](https://doi.org/10.21105/joss.09093)
 
 # emlearn-micropython
 
@@ -58,18 +58,23 @@ Good starting points:
 
 ## Citations
 
-If you use `emlearn-micropython` in an academic work, please reference it using:
+If you use `emlearn-micropython` in an academic work, please reference the paper:
+
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.09093/status.svg)](https://doi.org/10.21105/joss.09093)
 
 ```tex
-@misc{emlearn_micropython,
-  author       = {Jon Nordby},
-  title        = {{emlearn-micropython: Efficient Machine Learning engine for MicroPython}},
-  month        = aug,
-  year         = 2023,
-  doi          = {10.5281/zenodo.8212731},
-  url          = {https://doi.org/10.5281/zenodo.8212731}
-}
+@article{emlearn_micropython,
+    doi = {10.21105/joss.09093},
+    url = {https://doi.org/10.21105/joss.09093},
+    year = {2025},
+    publisher = {The Open Journal}, volume = {10}, number = {116}, pages = {9093},
+    author = {Nordby, Jon},
+    title = {emlearn-micropython: Machine Learning and Digital Signal Processing for MicroPython}, journal = {Journal of Open Source Software}
+} 
 ```
+
+If you have a need to reference a particular version, use the DOI shown on the [Zenodo page](https://doi.org/10.5281/zenodo.8212731) (right hand side).
+
 
 ## Developing
 
